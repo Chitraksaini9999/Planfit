@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Android build outputs & keystore secrets
+android_build/bin/
+android_build/classes/
+android_build/release.keystore
+*.idsig
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE & Editor caches
+.vscode/
+.idea/
+*.swp
+*.swo
